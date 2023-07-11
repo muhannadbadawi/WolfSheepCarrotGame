@@ -1,0 +1,21 @@
+right 
+ship 367,235
+goat 732,157
+wolf 650,165
+carrot 594,175
+
+in ship 
+goat 400, 157
+wolf 400, 165
+carrot 400, 175
+
+left
+ship 236, 235
+goat 140,157
+wolf 64,165
+carrot -1,175
+
+in ship 
+goat 280,157
+wolf 280,165
+carrot 280,175
